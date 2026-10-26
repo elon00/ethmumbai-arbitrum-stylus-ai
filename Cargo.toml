@@ -1,0 +1,9 @@
+[package]
+name = "ethmumbai-arbitrum-stylus-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Rust-to-WebAssembly high-throughput Stylus program"
+license = "MIT"
+
+[dependencies]
